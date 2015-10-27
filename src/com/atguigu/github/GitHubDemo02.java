@@ -8,5 +8,6 @@ public class GitHubDemo02
 		System.out.println("github accept,收到");
 		System.out.println("github update 01");
 		System.out.println("local update 01");
+		System.out.println("local update 02");
 	}
 }
